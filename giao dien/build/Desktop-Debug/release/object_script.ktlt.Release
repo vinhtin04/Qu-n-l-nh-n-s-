@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/nhansu.o
+release/nhanviendialog.o
+release/quanlydialog.o
+release/sendfile.o
+release/sendindex.o
+release/moc_mainwindow.o
+release/moc_nhansu.o
+release/moc_nhanviendialog.o
+release/moc_quanlydialog.o
+release/moc_sendfile.o
+release/moc_sendindex.o

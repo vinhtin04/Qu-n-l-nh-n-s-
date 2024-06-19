@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/nhansu.o
+debug/nhanviendialog.o
+debug/quanlydialog.o
+debug/sendfile.o
+debug/sendindex.o
+debug/moc_mainwindow.o
+debug/moc_nhansu.o
+debug/moc_nhanviendialog.o
+debug/moc_quanlydialog.o
+debug/moc_sendfile.o
+debug/moc_sendindex.o

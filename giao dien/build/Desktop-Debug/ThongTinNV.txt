@@ -1,0 +1,5 @@
+msnv      TÊN                 QUÊ QUÁN   NGÀY    THÁNG   NĂM     VỊ TRÍ CÔNG VIỆC     DÂN TỘC    EMAIL                          
+20240000  Trung               |que       |0      |0      |0      |giam doc            |kinh      |trung@gmail.com               
+20240001  Vinh                |thanh hoa |17     |8      |2004   |thu ki              |kinh      |vinhtin04@gmail.com           
+sơn đào             |hưng yên  |12     |12     |12     |Nô lệ của Sơn Hoàng |Kinh      |sondaongu@gmail.com           
+20242000  Long Tạ             |Phú thọ   |12     |12     |12     |nhan vien           |kinhg     |sdfsdfasdf                    
